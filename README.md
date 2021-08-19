@@ -20,6 +20,4 @@
  
 
 
-  <p>Funcionmento no smartphone</p>
-    <img  style="border-radius: 5px" height="450" src="https://i.imgur.com/oVX6mX5.gifv" alt="Register adopt">  
-</p>
+  
